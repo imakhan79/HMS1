@@ -1,0 +1,7 @@
+{
+  "name": "OmniClinic Integrated OPD System",
+  "description": "A high-fidelity Clinic OPD Management System featuring end-to-end integrated workflows between Registration, Vitals, Junior/Consultant Doctors, Laboratory, Pharmacy, and Billing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
